@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace RHModel
 {
     [Table("HistoricoEmpregadoSetor")]
-    class HistoricoEmpregadoSetor
+    public class HistoricoEmpregadoSetor
     {
         [Key]
         public int Id { get; set; }
