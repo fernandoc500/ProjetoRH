@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RHControl
 {
-    class Class1
+    class SetorControl
     {
     }
 }

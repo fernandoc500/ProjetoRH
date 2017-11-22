@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RHControl
 {
-    public class Class1
+    public class CargoControl
     {
     }
 }
